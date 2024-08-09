@@ -17,7 +17,7 @@ from rich.panel import Panel as RichPanel
 from rich.progress import Progress
 from rich.table import Table
 
-# Constants
+
 VERSION = 'RELEASE'
 CONSOLE = Console()
 PYTHON_VERSION = sys.version.split()[0]
